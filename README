@@ -1,10 +1,5 @@
+Peter Todd has taken over maintainership of python-bitcoinlib. Please use the
+new repository at:
 
-This python library provides an easy interface to the bitcoin
-data structures and protocol.
+https://github.com/petertodd/python-bitcoinlib
 
-
-Unit tests
-----------
-
-python -m unittest discover
-python3 -m unittest discover
